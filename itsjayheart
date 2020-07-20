@@ -1,0 +1,23 @@
+[33mcommit 0e1b1e87aa1f702e3fbae587ac45a1eab2ffa7c5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: itsjayheart <wearethetrueservants@gmail.com>
+Date:   Mon Jul 20 18:25:33 2020 +0200
+
+    event_oop main commit
+
+[33mcommit 4bb4965350a04cee6ec635355b20f7e3d4bdda13[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Clem Baldy <clemoun@yahoo.fr>
+Date:   Tue Mar 26 11:18:32 2019 +0100
+
+    comments update in app.rb
+
+[33mcommit 3a41f324ae5d606caa157482392b6b5337e8268b[m
+Author: Clem Baldy <clemoun@yahoo.fr>
+Date:   Tue Mar 26 11:10:10 2019 +0100
+
+    removing Rspec
+
+[33mcommit 106d0d106768fd85bb98095af662f11c2a270154[m
+Author: felhix <felix.gaude@gmail.com>
+Date:   Wed Jan 16 17:40:12 2019 +0100
+
+    final commit
